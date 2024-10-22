@@ -1,0 +1,34 @@
+
+:root{
+font-family:system-ui,sans-serif;
+line-height: 1.6;
+}
+
+body{
+margin: 0 auto;
+max-width: 40em;
+padding:20px;
+}
+
+header{
+font-size: 24px;
+font-weight: 550;
+}
+
+nav a{
+text-decoration: none;
+margin-right: 12px;
+color: var(--fg);
+}
+
+a{
+text-decoration: underline;
+margin-right: 12px;
+color: #0318fc;
+}
+
+a:hover{
+text-decoration: underline;
+text-decoration-color: #8803fc;
+text-decoration-thickness: 2px;
+}
