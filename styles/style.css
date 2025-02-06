@@ -32,3 +32,9 @@ text-decoration: underline;
 text-decoration-color: #8803fc;
 text-decoration-thickness: 2px;
 }
+img{
+    max-width: 150%;
+}
+.screenshot{
+    width: 500px;
+}
